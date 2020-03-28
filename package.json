@@ -11,7 +11,7 @@
     "icon-font-generator": "bin/icon-font-generator"
   },
   "scripts": {
-    "test": "./sample/test-script.sh"
+    "test": "./example/test-script.sh"
   },
   "author": "Tancredi Trugenberger",
   "license": "MIT",
