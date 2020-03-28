@@ -6,3 +6,7 @@ yarn.lock
 
 # OSX
 **.DS_Store
+
+#example
+example/css/
+example/fonts/
