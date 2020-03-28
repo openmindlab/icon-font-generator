@@ -10,14 +10,16 @@
   "bin": {
     "icon-font-generator": "bin/icon-font-generator"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "./sample/test-script.sh"
+  },
   "author": "Tancredi Trugenberger",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.2.1",
     "glob": "^7.1.2",
     "minimist": "^1.2.0",
-    "webfonts-generator": "^0.4.0"
+    "webfonts-generator": "https://github.com/openmindlab/webfonts-generator/#bcfa1a0fddb9884d82065eb15550ab90a2b7fa7e"
   },
   "devDependencies": {
     "eslint": "^4.19.1",

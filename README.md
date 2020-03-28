@@ -63,6 +63,8 @@ Options:
   --mono           Make font monospace (Default: false)
   --height         Fixed font height value
   --center         Center font horizontally
+  --skipHashNames  Remove hash suffix from fonts reference included in templates
+
 ```
 
 
